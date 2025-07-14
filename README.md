@@ -1,6 +1,6 @@
 # SpaceX Falcon 9 Landing Prediction
 
-![]()
+![Project Image](https://github.com/ale-uy/IBM_SpaceX/blob/main/img.jpg)
 
 ---
 
